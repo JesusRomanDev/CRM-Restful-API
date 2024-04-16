@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jesus",
+      "email": "fehl@outlook.es",
+      "telefono": "811",
+      "empresa": "Tech",
+      "id": 1
+    },
+    {
+      "nombre": "Edu",
+      "email": "nuevoCorreo@outlook.es",
+      "telefono": "8212",
+      "empresa": "nuevoCorreo@outlook.es",
+      "id": 2
+    },
+    {
+      "nombre": "Estrella",
+      "email": "fehl@outlook.es",
+      "telefono": "8212",
+      "empresa": "Tech",
+      "id": 3
+    }
+  ]
+}
